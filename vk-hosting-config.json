@@ -1,0 +1,7 @@
+{
+  "static_path": "build",
+  "app_id": 52586779,
+  "endpoints": {
+    "web": "index.html"
+  }
+}
